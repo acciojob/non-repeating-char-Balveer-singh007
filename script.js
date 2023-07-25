@@ -7,6 +7,6 @@ function firstNonRepeatingCharacter(str) {
       return char;
     }
   }
-  return "";
+  return null;
 }
 alert(firstNonRepeatingCharacter(s));
